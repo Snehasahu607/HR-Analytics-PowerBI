@@ -16,7 +16,7 @@ The dashboard helps HR teams understand employee attrition based on factors such
 
 ## 📁 Dataset
 
-The project uses the **IBM HR Analytics Employee Attrition dataset**, containing employee-level information such as:
+The project uses an employee HR dataset in CSV format containing employee-level information such as:
 
 - Age
 - Gender
@@ -27,6 +27,8 @@ The project uses the **IBM HR Analytics Employee Attrition dataset**, containing
 - Years at Company
 - Job Satisfaction
 - Attrition
+
+The dataset is used to analyze employee attrition and identify workforce trends based on different employee attributes.
 
 ## 📌 Key KPIs
 
