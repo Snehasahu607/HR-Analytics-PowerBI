@@ -92,6 +92,8 @@ The main objective is to help HR teams identify **attrition patterns and potenti
 
 The repository includes a screenshot of the Power BI dashboard for quick reference.
 
+![HR Analytics Dashboard](Neon Magenta HR Analytics Dashboard.png)
+
 ## 🚀 Future Improvements
 
 - Add interactive slicers for department and job role
