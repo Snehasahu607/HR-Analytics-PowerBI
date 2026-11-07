@@ -92,8 +92,7 @@ The main objective is to help HR teams identify **attrition patterns and potenti
 
 The repository includes a screenshot of the Power BI dashboard for quick reference.
 
-![HR Analytics Dashboard](<img width="1672" height="941" alt="Neon Magenta HR Analytics Dashboard" src="https://github.com/user-attachments/assets/2fcf86b3-6317-4c43-b44b-ed3370471525" />
-)
+![HR Analytics Dashboard](./Neon%20Magenta%20HR%20Analytics%20Dashboard.png)
 
 ## 🚀 Future Improvements
 
